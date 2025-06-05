@@ -1,0 +1,9 @@
+p{color:springgreen}
+h1{color:saddlebrown}
+/* Seletor global */
+*{color:crimson}
+/* '*' -> todas as tags vão receber a formatação de dentro dela */
+/* Seletor por classe */
+.corVerde{color:green;}
+/* Seletor por id */
+#nomeID{color:peru}
